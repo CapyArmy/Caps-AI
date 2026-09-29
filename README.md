@@ -4,7 +4,7 @@
 
 > **Windows only** (Windows 10/11, 64-bit). Other platforms are not supported currently.
 
-![Caps AI welcome screen](screenshots/welcome.png)
+![Caps AI welcome screen](/welcome.png)
 
 ## Download & install
 
@@ -22,7 +22,7 @@ When a new version drops, the **V1.0.0 chip** in the top-right corner of the app
 
 No key yet? The built-in **Caps DEMO** guide walks you through setup, and local servers (Ollama, LM Studio, vLLM) need no key at all.
 
-![Chatting in Caps AI](screenshots/chat.png)
+![Chatting in Caps AI](/chat.png)
 
 ## What's inside
 
@@ -33,7 +33,7 @@ No key yet? The built-in **Caps DEMO** guide walks you through setup, and local 
 - **Full chat workspace** — edit and resend messages, regenerate replies, read-aloud, bookmarks, search, pins, Markdown export, file attachments, LaTeX math, and code highlighting.
 - **Private by design** — optional Google sign-in (7-day sessions) only scopes your data per account. Everything sensitive is stored encrypted on your device.
 
-![Connecting a provider](screenshots/providers.png)
+![Connecting a provider](/providers.png)
 
 ## Support & bug reports
 
