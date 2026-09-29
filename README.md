@@ -11,7 +11,6 @@
 Get the latest version from the **[releases page](https://github.com/CapyArmy/Caps-AI/releases)**:
 
 - **Recommended:** `Caps AI Setup 1.0.0.exe` — guided installer. Pick your install folder, choose Desktop and Start Menu shortcuts, accept the terms, and you're in.
-- **No install:** `Caps AI 1.0.0.exe` — portable build. Run it from anywhere; your chats and keys live in the same place either way.
 
 When a new version drops, the **V1.0.0 chip** in the top-right corner of the app will offer it, or grab it anytime from the [releases page](https://github.com/CapyArmy/Caps-AI/releases/latest). Installing a new version never touches your chats, keys, settings, or agents.
 
@@ -30,7 +29,7 @@ No key yet? The built-in **Caps DEMO** guide walks you through setup, and local 
 - **25+ providers, one picker** — models grouped A–Z with green **Free** badges, refreshed on every launch, plus custom endpoints and local servers.
 - **Computer agent** — toggle it on, approve folders, and the AI can list, read, write, and edit files. Nothing outside your approved folders is ever touched.
 - **Custom agents** — create personalities for different work and switch between them mid-chat.
-- **Memory** — the AI names your chats from the first message and remembers past conversations (deleted chats are truly gone).
+- **Memory** — the AI remembers past conversations (deleted chats are truly gone).
 - **Full chat workspace** — edit and resend messages, regenerate replies, read-aloud, bookmarks, search, pins, Markdown export, file attachments, LaTeX math, and code highlighting.
 - **Private by design** — optional Google sign-in (7-day sessions) only scopes your data per account. Everything sensitive is stored encrypted on your device.
 
