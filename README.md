@@ -21,6 +21,7 @@ When a new version drops, the **V1.0.0 chip** in the top-right corner of the app
 3. Send a message. Switch models anytime from the composer.
 
 No key yet? The built-in **Caps DEMO** guide walks you through setup, and local servers (Ollama, LM Studio, vLLM) need no key at all.
+* **for this image i used a Gemini model not the Caps DEMO**
 
 ![Chatting in Caps AI](/chat.png)
 
