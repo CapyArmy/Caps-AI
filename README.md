@@ -38,7 +38,7 @@ No key yet? The built-in **Caps DEMO** guide walks you through setup, and local 
 ## Support & bug reports
 
 - **Help / customer support:** DM **capyarmy2** on Discord.
-- **Bug reports:** comment on the repository — open an issue at [CapyArmy/Caps-AI/issues](https://github.com/CapyArmy/Caps-AI/issues) describing what happened and what you expected.
+- **Bug reports:** comment on the repository — open an issue at [CapyArmy/Caps-AI/issues](https://github.com/CapyArmy/Caps-AI/issues) describing what happened and what you expected, or if something isn't working as intended.
 
 ## Privacy
 
