@@ -43,3 +43,8 @@ No key yet? The built-in **Caps DEMO** guide walks you through setup, and local 
 ## Privacy
 
 Caps AI sends your messages directly to the AI provider you configure — there is no Caps server in between. Provider API keys are stored encrypted on your device only. Each provider's own terms and data policies apply to the requests you send it. Use Caps on a device you trust.
+
+## Notes
+
+* The App/Installer Might get flagged by windows defender As unsigned/unknown publisher sometimes, Fix: Turn Off Windows Defender Smart App Control Before Launching The App. After That You Can Safely Turn Smart App Control Back On.
+* It Might Take A while to start due to Heavy Resource usage.
