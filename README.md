@@ -49,3 +49,4 @@ Caps AI sends your messages directly to the AI provider you configure — there 
 
 * The App/Installer Might get flagged by windows defender As unsigned/unknown publisher sometimes, Fix: Turn Off Windows Defender Smart App Control Before Launching The App. After That You Can Safely Turn Smart App Control Back On.
 * It Might Take A while to start due to Heavy Resource usage.
+* Agent Mode Is Currently In Beta, So Don't Expect It To Work Flawlessly.
