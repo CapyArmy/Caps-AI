@@ -10,9 +10,9 @@
 
 Get the latest version from the **[releases page](https://github.com/CapyArmy/Caps-AI/releases)**:
 
-- **Recommended:** `Caps AI Setup 1.0.0.exe` — guided installer. Pick your install folder, choose Desktop and Start Menu shortcuts, accept the terms, and you're in.
+- **Recommended:** `Caps AI Setup 1.0.1.exe` — guided installer. Pick your install folder, choose Desktop and Start Menu shortcuts, accept the terms, and you're in.
 
-When a new version drops, the **V1.0.0 chip** in the top-right corner of the app will offer it, or grab it anytime from the [releases page](https://github.com/CapyArmy/Caps-AI/releases/latest). Installing a new version never touches your chats, keys, settings, or agents.
+When a new version drops, the **V1.0.1 chip** in the top-right corner of the app will offer it, or grab it anytime from the [releases page](https://github.com/CapyArmy/Caps-AI/releases/latest). Installing a new version never touches your chats, keys, settings, or agents.
 
 ## First run in 2 minutes
 
